@@ -1,4 +1,4 @@
-# 🥖🍕🍷 Aluroni 3 Rotas
+# 📅 Alura Event Tracker
 
 Projeto do curso <a href="https://www.alura.com.br/curso-online-react-gerenciando-estado-recoil"> React: gerenciando estado com Recoil</a>, ministrado pelo instrutor <a href="https://www.linkedin.com/in/vinny-neves/">Vinicios (Marcos Vinicios da Silva Neves) Neves </a>.
 
@@ -8,7 +8,7 @@ Projeto do curso <a href="https://www.alura.com.br/curso-online-react-gerenciand
 | :label: Tecnologias | html, css, js, sass, css modules, node, typescript, react, recoil, json
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![thumb-aluroni-3](https://github.com/Epiled/aluroni-3-otimizado/assets/55258483/fac884d1-0263-451e-8a4b-3187a3e97fac#vitrinedev)
+![alura-event-tracker](https://github.com/Epiled/Alura-Event-Tracker/assets/55258483/ae2e768e-09a4-4cec-b3e0-1dedc9e7a532#vitrinedev)
 
 <h2 id="detalhes-do-projeto"> 📃 Detalhes do projeto </h2>
 
@@ -16,12 +16,12 @@ Projeto de calendario interativo com sistema de filtragens, e gestão eficiente 
 
 O código foi desenvolvido em React com TypeScript e estilizado usando CSS Modules e Sass.
 
-![Badge](https://img.shields.io/github/last-commit/Epiled/aluroni-2-router?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/code-size/Epiled/aluroni-2-router?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/count/Epiled/aluroni-2-router?style=for-the-badge)
+![Badge](https://img.shields.io/github/last-commit/Epiled/alura-event-tracker?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/code-size/Epiled/alura-event-tracker?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/count/Epiled/alura-event-tracker?style=for-the-badge)
 ![Bagde](https://img.shields.io/badge/repo%20status-Beta-cyan?style=for-the-badge)
-![Bagde](https://img.shields.io/github/v/release/Epiled/aluroni-2-router?style=for-the-badge)
-![Bagde](https://img.shields.io/github/license/Epiled/aluroni-2-router?style=for-the-badge)
+![Bagde](https://img.shields.io/github/v/release/Epiled/alura-event-tracker?style=for-the-badge)
+![Bagde](https://img.shields.io/github/license/Epiled/alura-event-tracker?style=for-the-badge)
 
 ![Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,9 +59,7 @@ O código foi desenvolvido em React com TypeScript e estilizado usando CSS Modul
 
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
-https://github.com/Epiled/aluroni-2-router/assets/55258483/65004157-72ab-4979-9542-c64583196d21
-
-https://github.com/Epiled/aluroni-2-router/assets/55258483/9beeb7ab-0f8d-4b8a-b5a1-8b3e03c94286
+https://github.com/Epiled/Alura-Event-Tracker/assets/55258483/a243fd0a-762a-4848-b96b-97de661b85b9
 
 <h2 id="pre-requisito"> 🚨 Pré-requisito </h2>
 <ul>
@@ -72,16 +70,18 @@ https://github.com/Epiled/aluroni-2-router/assets/55258483/9beeb7ab-0f8d-4b8a-b5
 <h2 id="instalacao"> ⚙ Instalação </h2>
 
 ```
-1. git clone https://github.com/Epiled/aluroni-3-otimizado.git
-2. cd aluroni-3-otimizado
+1. git clone https://github.com/Epiled/alura-event-tracker.git
+2. cd alura-event-tracker
 3. npm install
 ```
 
 <h2 id="como-usar"> 👩‍🏫 Como usar </h2>
 
 ```
-1. npm start
-2. Caso a url não abra sozinha acesse através deste caminho http://localhost:3000/
+1. json-server --watch db.json --port 8080
+2. Abra um segundo terminal
+3. npm start
+4. Caso a url não abra sozinha, acesse através deste caminho http://localhost:3000/
 ```
 
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
